@@ -19,7 +19,7 @@ Full Stack Developer | Tech Enthusiast | Systems Analysis & AI Student
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📌 Featured Projects
-- 🌿 **PANC Identifier** — Computer vision system using YOLO + Roboflow (Hackathon winner)
+- 🌿 [É PANC](https://github.com/AndriusZimmer/FrontPANC) | Hackathon winner — edible plant identification | Vue.js · YOLO · Roboflow |
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrius-nunes-zimmer)
